@@ -1,7 +1,6 @@
 # Hi, I'm Vishakha 👋
 
-## 🤖 ROBO-X
-Future Robotics Company Vision
+# 🤖 ROBO-X
 
 🎓 High school student passionate about Robotics & AI  
 💻 Learning Python & C++  
