@@ -1,2 +1,8 @@
-Hi, I’m Vishakha 👋
-I’m a 15-year-old student preparing for JEE and Olympiads, with a strong interest in mathematics and science.
+# Hi, I'm Vishakha 👋
+
+## 🤖 ROBO-X
+Future Robotics Company Vision
+
+🎓 High school student passionate about Robotics & AI  
+💻 Learning Python & C++  
+🚀 Interested in Technology, Innovation and Building Robots  
